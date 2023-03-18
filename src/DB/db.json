@@ -1,0 +1,191 @@
+{
+  "users": [
+    {
+      "name": "ahmed ali",
+      "email": "mm@mm.com",
+      "pass": "1234567893214",
+      "id": 1
+    },
+    {
+      "name": "osama mohamed",
+      "email": "mm@nn.com",
+      "pass": ";laskjdfhuo",
+      "id": 2
+    },
+    {
+      "name": "islam ahmed",
+      "email": "nn@nn.com",
+      "pass": "789456845321",
+      "id": 3
+    },
+    {
+      "name": "mohamed_Ali",
+      "email": "AA@AA.com",
+      "pass": ".,mnxcv,.mnxv",
+      "id": 4
+    },
+    {
+      "name": "ahmed saleh",
+      "email": "ahmedos@ah.com",
+      "pass": "';ldfkjg'sads",
+      "id": 5
+    },
+    {
+      "name": "osama zain",
+      "email": "qq@qq.com",
+      "pass": "os123456677",
+      "id": 6
+    }
+  ],
+  "locations": [
+    {
+      "name": "Hooks Fish",
+      "phone": "+1234535643",
+      "address": "cairo , egypt",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "chicken res.",
+      "phone": "+1235216548",
+      "address": "Nasr city , egy",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "pizza hut",
+      "phone": "+654321987",
+      "address": "beirut , lebanon",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "name": "mak",
+      "phone": "5395215385",
+      "address": "cairo , egy",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "name": "mocca",
+      "phone": "+5874563212",
+      "address": "cairo , egypt",
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "name": "Hooks Fish & chicken",
+      "phone": "+15987635554",
+      "address": "cairo , egypt",
+      "userId": 3,
+      "id": 6
+    },
+    {
+      "name": "western food ",
+      "phone": "+15987635554",
+      "address": "cairo , egypt",
+      "userId": 3,
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "name": "breakfast",
+      "userId": 3,
+      "locationId": 6,
+      "id": 1
+    },
+    {
+      "name": "lunch",
+      "userId": 3,
+      "locationId": 6,
+      "id": 2
+    },
+    {
+      "name": "dinner",
+      "userId": 3,
+      "locationId": 6,
+      "id": 3
+    },
+    {
+      "name": "light lunch",
+      "userId": 3,
+      "locationId": 7,
+      "id": 4
+    },
+    {
+      "name": "dinner",
+      "userId": 3,
+      "locationId": 7,
+      "id": 5
+    },
+    {
+      "name": "cold drinks",
+      "userId": 3,
+      "locationId": 7,
+      "id": 6
+    }
+  ],
+  "items": [
+    {
+      "name": "tuna san double",
+      "price": 90,
+      "Description": "best double sandwich",
+      "Qty": 66,
+      "userId": 3,
+      "locId": 7,
+      "catId": 4,
+      "id": 2
+    },
+    {
+      "name": "kabab double",
+      "price": 100,
+      "Description": "best kabab sandwich",
+      "Qty": 65,
+      "userId": 3,
+      "locId": 7,
+      "catId": 5,
+      "id": 3
+    },
+    {
+      "name": "coffee",
+      "price": 25,
+      "Description": "delicious coffee ever",
+      "Qty": 500,
+      "userId": 3,
+      "locId": 7,
+      "catId": 6,
+      "id": 4
+    },
+    {
+      "name": "happy sandwich kompo",
+      "price": 175,
+      "Description": "light meal",
+      "Qty": 200,
+      "userId": 3,
+      "locId": 6,
+      "catId": 2,
+      "id": 5
+    },
+    {
+      "name": "soup with salad",
+      "price": 115,
+      "Description": "light dinner",
+      "Qty": 233,
+      "userId": 3,
+      "locId": 6,
+      "catId": 3,
+      "id": 6
+    },
+    {
+      "name": "tuna sandwich",
+      "price": 55,
+      "Description": "best Tuna u ever ate",
+      "Qty": 100,
+      "userId": 3,
+      "locId": 6,
+      "catId": 1,
+      "id": 7
+    }
+  ]
+}
